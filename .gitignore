@@ -39,4 +39,15 @@ Thumbs.db
 *.tsbuildinfo
 
 # Vite
-.vite 
+.vite
+
+# Business Central specific
+.alcache/
+.alpackages/
+.snapshots/
+.output/
+*.app
+rad.json
+*.g.xlf
+*.flf
+TestResults.xml
